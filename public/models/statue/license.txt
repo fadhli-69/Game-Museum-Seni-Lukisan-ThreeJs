@@ -1,0 +1,11 @@
+Model Information:
+* title:	Patung Betang
+* source:	https://sketchfab.com/3d-models/patung-betang-7ede61fde9b445a4ab86ee323d83fa11
+* author:	astutiami73 (https://sketchfab.com/astutiami73)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Patung Betang" (https://sketchfab.com/3d-models/patung-betang-7ede61fde9b445a4ab86ee323d83fa11) by astutiami73 (https://sketchfab.com/astutiami73) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

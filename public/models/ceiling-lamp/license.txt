@@ -1,0 +1,11 @@
+Model Information:
+* title:	Athen 6x28W ceiling lamp
+* source:	https://sketchfab.com/3d-models/athen-6x28w-ceiling-lamp-08031a2f99414954903a19a5dd73cdfc
+* author:	lajos.makra (https://sketchfab.com/lajos.makra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Athen 6x28W ceiling lamp" (https://sketchfab.com/3d-models/athen-6x28w-ceiling-lamp-08031a2f99414954903a19a5dd73cdfc) by lajos.makra (https://sketchfab.com/lajos.makra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
